@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @zoebosschaart
 - 👀 I’m interested in Infra as Code
-- 🌱 I’m currently busy with Azure pipelines, PowerShell, Github Actions, Bicep
+- 🌱 I’m currently busy with Github Actions, Terraform
 - 📫 How to reach me: @zoe.bosschaart
